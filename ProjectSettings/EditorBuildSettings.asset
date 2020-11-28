@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 4dd358e4e0d708647bc1a13790fdd8ea
+  - enabled: 1
+    path: Assets/Scenes/Prototype Level.unity
+    guid: c9fadfe2cdaed2a4fa748f8b0f17271a
+  - enabled: 1
+    path: Assets/Scenes/Suffocate.unity
+    guid: f3af6561ec4d1064697065834137c027
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: adbd360c5459bc843814e34635ab3270
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: b0dfb16a23cf8de44b616b354d4169ee
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: d53530805d25ed54393e3b03311a855a
+  m_configObjects: {}
